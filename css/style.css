@@ -1,0 +1,28 @@
+html {
+
+}
+
+body {
+  display: flex;
+  flex-direction: row;
+}
+
+.logoImg {
+  width: 250px;
+  height: 250px;
+}
+
+.background {
+  display: flex;
+  flex-direction: row;
+  width: 100vw;
+  flex-wrap: wrap;
+}
+
+.bgImg {
+  width: 123px;
+  height: 123px;
+  /*display: flex;
+  flex-direction: row;*/
+  border: 1px solid #000;
+}
